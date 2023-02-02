@@ -1,7 +1,7 @@
 ## Adriano Santos
 
 <div>
-  <a href="https://github.com/aoliveira94/">
+  <a href="https://github.com/aoliveira94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoliveira94&layout=compact&langs_count=7&theme=dark"/>
   <img align=right height="260" src="octocat-1674147594627.png">
 </div>
@@ -20,6 +20,5 @@
  
 <div>
   <a href = "mailto:adriano.muniz@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriano-oliveira-19b88211a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/adriano-oliveira-19b88211a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
