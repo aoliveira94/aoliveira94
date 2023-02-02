@@ -1,9 +1,9 @@
 ## Adriano Santos
 
 <div>
-  <a href="https://github.com/aoliveira94">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoliveira94&layout=compact&langs_count=7&theme=dark"/>
-  <img align=right height="260" src="octocat-1674147594627.png">
+<a href="https://github.com/aoliveira94">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoliveira94&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Always studying:
